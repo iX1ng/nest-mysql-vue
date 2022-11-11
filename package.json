@@ -1,0 +1,19 @@
+{
+  "name": "nest-mysql-vue",
+  "version": "1.0.0",
+  "description": "后台管理系统",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iX1ng/nest-mysql-vue.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iX1ng/nest-mysql-vue/issues"
+  },
+  "homepage": "https://github.com/iX1ng/nest-mysql-vue#readme"
+}
